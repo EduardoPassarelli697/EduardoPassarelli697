@@ -16,8 +16,8 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/EduardoPassarelli697">
     <img src="https://img.shields.io/badge/GitHub-EduardoPassarelli697-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/*****************">
+    <img src="https://img.shields.io/badge/Instagram-@********************8?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -41,7 +41,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.  .io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
