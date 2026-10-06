@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Eduardo Passarelli
 
 🚀 **Junior Developer | C# - Java - Python**  
 🇧🇷 Brazil
