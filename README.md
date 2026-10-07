@@ -15,13 +15,13 @@ I'm always learning, building personal projects and looking for opportunities to
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/eduardo-soares-passarelli-555919232/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:eduardo.passarelli1712@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
+  <a href="https://www.instagram.com/duardo_pass?stkn=MXhrNTk3cW4zMm1hMA==">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
