@@ -1,7 +1,8 @@
 # Hi 👋, I'm Eduardo Passarelli
 
 🚀 **Junior Developer | C# · .NET · Java · Python**
-🇧🇷 Brazil · Systems Analysis & Development student
+
+<img src="https://flagcdn.com/20x15/br.png" width="20" alt="Brazil flag" /> Brazil · Systems Analysis & Development student
 
 I enjoy building **web systems and APIs** with a focus on **clean code, solid architecture and real business problems**.
 Currently exploring **AI applications (RAG, local LLMs)** and **data** (Python, Power BI).
@@ -14,7 +15,7 @@ Currently exploring **AI applications (RAG, local LLMs)** and **data** (Python, 
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:eduardo.passarelli1712L@gmail.com">
+  <a href="mailto:SEU_EMAIL@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/SEU_INSTAGRAM">
@@ -53,9 +54,14 @@ A corporate assistant that answers questions based on the company's own document
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
-### Backend & Frontend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,6 +72,8 @@ A corporate assistant that answers questions based on the company's own document
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
