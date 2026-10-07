@@ -4,8 +4,11 @@
 
 <img src="https://flagcdn.com/20x15/br.png" width="20" alt="Brazil flag" /> Brazil · Systems Analysis & Development student
 
-I enjoy building **web systems and APIs** with a focus on **clean code, solid architecture and real business problems**.
-Currently exploring **AI applications (RAG, local LLMs)** and **data** (Python, Power BI).
+I'm a Systems Analysis & Development student who loves turning ideas into working software.
+Most of my work is in **backend development with C# and .NET**, building **web systems and REST APIs**, and I also work with **Java, Python and Angular** when the project calls for it.
+
+I care about writing **clean, well-structured code** and understanding the business problem behind every feature, not just the technical side.
+I'm always learning, building personal projects and looking for opportunities to grow as a developer.
 
 ---
 
@@ -65,7 +68,6 @@ A corporate assistant that answers questions based on the company's own document
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ### Databases
